@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Меня зовут Дмитрий.
+Днём я пишу на C# и думаю о типизации, вечером — на Python и радуюсь динамике. SQL держу в уме для сложных выборок, NoSQL — когда «схема надоела».
+Этот блог — моя инженерная кухня. Будут и туториалы, и разборы косяков, и немного философии о том, почему один язык не правит миром.
