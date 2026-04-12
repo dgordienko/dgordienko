@@ -10,3 +10,6 @@ pin: true
 toc: true
 render_with_liquid: true
 ---
+### Установка и настройка приложения на смартфонах Motorola и Xiaomi Redmi
+
+{% include embed/youtube.html id='wvEX7Ilwn3k' compact=1 %}
