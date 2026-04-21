@@ -1,9 +1,9 @@
 ---
-title: Обновление Distributor.Mobile 4.65
+title: Обновление Distributor.Mobile 4.67
 author: dgordienko
 date: 2026-04-10 20:00:00 +0200
 categories: [Distributor.Mobile]
-tags: [distributor.mobile 4.65, update]
+tags: [distributor.mobile 4.67, update]
 image:
   path: /assets/img/Distributor.png
 pin: true
@@ -12,9 +12,9 @@ render_with_liquid: true
 ---
 ### Установка
 
-![QR](/assets/img/Distributor.Mobile-4.65.png)
+![QR](/assets/img/distributor.mobile-4.67.png)
 
-[Ссылка на установку](https://drive.google.com/file/d/170gCrpPpwumnLhBo9qy5PpbFer0v5CPY/view?usp=sharing)
+[Ссылка на установку](https://drive.google.com/file/d/1Q8F1i7V5Zcq7GYtvR2okxHdRIHRRaWby/view?usp=drive_link)
 
 
 ### Изменения
