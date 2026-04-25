@@ -1,7 +1,7 @@
 ---
 title: Обновление Distributor.Mobile 4.67
 author: dgordienko
-date: 2026-04-25 20:00:00 +0200
+date: 2026-04-25 15:00:00 +0200
 categories: [Distributor.Mobile]
 tags: [distributor.mobile 4.67, update]
 image:
