@@ -14,7 +14,7 @@ render_with_liquid: true
 
 ![QR](/assets/img/distributor.mobile-4.67.png)
 
-[Ссылка на установку](https://drive.google.com/file/d/1XRbMcZXmdio2QvfBucbbXzN-h4eRS2kY/view?usp=sharing)
+[Ссылка на установку](https://drive.google.com/file/d/1ba8ZR1JkKKJW3KZHSWyR2X5iCEr0TWTj/view?usp=sharing)
 
 
 ### Изменения
