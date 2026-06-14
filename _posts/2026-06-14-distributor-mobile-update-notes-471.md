@@ -1,7 +1,7 @@
 ---
 title: Обновление Distributor.Mobile 4.71
 author: dgordienko
-date: 2026-06-14 13:00:00 +0200
+date: 2026-06-14 08:00:00 +0200
 categories: [Distributor.Mobile]
 tags: [distributor.mobile 4.71, update]
 image:
